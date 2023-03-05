@@ -19,7 +19,7 @@ public class CourseService {
         );
 
         course.setTitle("Spring Update");
-        course.setCost(4351.);
+        course.setCost(12345.);
     }
 
 }
